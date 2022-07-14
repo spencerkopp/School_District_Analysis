@@ -18,4 +18,5 @@ Software: Python 3.6.1, Jupyter Notebook 6.4.8
 
 ## Summary
 
-file:///C:/Users/compupoo/Documents/Bootcamp/Analysis%20Projects%20Class%20Folder/School_District_Analysis/Comparison_Resources/District_Summary/district_summary_corrected.PNG
+<img width="467" alt="district_summary_corrected" src="https://user-images.githubusercontent.com/107224097/178857432-2b0ef306-f26d-45ab-8560-2e7d169f950e.PNG">
+
