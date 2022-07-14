@@ -2,12 +2,19 @@
 
 ## Overview
 The purpose of this project is to replace data for the The school district analysis summary will include a high-level snapshot of the district's key metrics including:
+
 -Total number of students
+
 -Total budget
+
 -Average math score
+
 -Average reading score
+
 -Percentage of students who passed math
+
 -Percentage of students who passed reading
+
 -Overall passing percentage
 
 ## Resources
