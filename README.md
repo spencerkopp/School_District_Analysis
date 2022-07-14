@@ -41,4 +41,4 @@ The uncorrected school summary can be found here:
 
 ## Summary
 
-Given that the reading and math scores of 9th graders at Thomas High School did not account for a large portion of the overall data, most of the results of the analysis before and after correcting these scores remains the same.
+Given that the reading and math scores of 9th graders at Thomas High School did not account for a large portion of the overall data, most of the results of the analysis before and after correcting these scores remains the same. The district summary above shows a .1% decrease in the average math scores, a .2% decrease in the percentage of students passing math, a .3% decrease in the percentage of students passing reading, and a .1% decrease in the percentage of students overall passing.
