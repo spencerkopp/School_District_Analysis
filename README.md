@@ -16,9 +16,6 @@ Software: Python 3.6.1, Jupyter Notebook 6.4.8
 
 ## Results
 
-## Summary
-
-
 The corrected district summary can be found here:
 
 <img width="467" alt="district_summary_corrected" src="https://user-images.githubusercontent.com/107224097/178857432-2b0ef306-f26d-45ab-8560-2e7d169f950e.PNG">
@@ -35,3 +32,4 @@ The uncorrected school summary can be found here:
 
 <img width="542" alt="school_summary_uncorrected" src="https://user-images.githubusercontent.com/107224097/178857631-9e1cc989-1fbb-4ddb-a8ec-0d1ebe8a0418.PNG">
 
+## Summary
