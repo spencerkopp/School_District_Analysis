@@ -13,6 +13,10 @@ The purpose of this project is to replace data for the reading and math scores o
 
 -Overall passing percentage
 
+-Total school budget
+
+-School budget per capita
+
 ## Resources
 Data source: students_complete.csv
 Software: Python 3.6.1, Jupyter Notebook 6.4.8
