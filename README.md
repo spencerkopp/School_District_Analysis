@@ -1,11 +1,7 @@
 # School District Analysis
 
 ## Overview
-The purpose of this project is to replace data for the The school district analysis summary will include a high-level snapshot of the district's key metrics including:
-
--Total number of students
-
--Total budget
+The purpose of this project is to replace data for the reading and math scores of the 9th graders of a specific high school. After cleaning the data, the school district analysis summary will include a high-level snapshot of the district's key metrics including:
 
 -Average math score
 
