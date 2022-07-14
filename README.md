@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview
-The school district analysis summary will include a high-level snapshot of the district's key metrics including:
+The purpose of this project is to replace data for the The school district analysis summary will include a high-level snapshot of the district's key metrics including:
 -Total number of students
 -Total budget
 -Average math score
@@ -33,3 +33,5 @@ The uncorrected school summary can be found here:
 <img width="542" alt="school_summary_uncorrected" src="https://user-images.githubusercontent.com/107224097/178857631-9e1cc989-1fbb-4ddb-a8ec-0d1ebe8a0418.PNG">
 
 ## Summary
+
+Given that the reading and math scores of 9th graders at Thomas High School did not account for a large portion of the overall data, most of the results of the analysis before and after correcting these scores remains the same.
